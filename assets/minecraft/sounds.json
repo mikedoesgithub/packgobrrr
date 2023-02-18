@@ -1,0 +1,9 @@
+{
+  "custom.elevator": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "custom/fanfare",
+        "stream": true
+      }]
+  }}
